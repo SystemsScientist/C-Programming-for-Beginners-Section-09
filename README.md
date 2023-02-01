@@ -3,8 +3,8 @@
 This repository contains the Examples, Exercises, and Solutions
 for Section 9 of C Programming for Beginners: Master the C
 Language by Jason Fedin, which covers functions, arguments and
-parameters, returning data from functions, and local and
-global variables.
+parameters, returning data from functions (subroutines or 
+procedures), and local and global variables.
 
 See the following link for this course: <a href="https://www.udemy.com/course/c-programming-for-beginners" title="C Programming" target="_blank">C Programming for Beginners</a>
 
