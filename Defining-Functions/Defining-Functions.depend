@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675256083 source:/home/snarkydata/udemy-courses/C-Courses/C-Programming-For-Beginners/Section-09-Functions/Defining-Functions/main.c
+	<stdio.h>
+	<stdlib.h>
+
