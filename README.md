@@ -9,7 +9,7 @@ from functions, and local and global variables.
 See the following link for this course: <a href="https://www.udemy.com/course/c-programming-for-beginners-/" title="C Programming" target="_blank">C Programming for Beginners</a>
 
 <p align="center">
-    <img src="https://learnprogramming.academy/wp-content/uploads/2023/01/1467808_f8c0-2.jpg" title="C Programming for Beginners">
+    <img src="https://learnprogramming.academy/wp-content/uploads/2023/01/1467808_f8c0-2.jpg" atl="C Programming for Beginners" title="C Programming for Beginners">
 </p>
 
 <i>Please note, this repository is currently a work in progress 
