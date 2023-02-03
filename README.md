@@ -38,9 +38,8 @@ To compile, build, and execute the Section 9 files and directories,
     (2) copy the code and paste it directly into your preferred
         Integrated Development Environment (IDE), CLion, CodeLite,
         or Code::Blocks, for example, or your preferred text editor,
-        Vim, Nano, or Emacs, for example
-    (3) and either compile, build, and execute the files in your 
-        IDE, or
+        Vim, Nano, or Emacs, for example, and either
+    (3) compile, build, and execute the files in your IDE, or
     (4) use the following command-line script:
     
             $ gcc name_of_file.c -o main
