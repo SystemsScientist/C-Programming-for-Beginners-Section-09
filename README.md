@@ -8,7 +8,9 @@ from functions, and local and global variables.
 
 See the following link for this course: <a href="https://www.udemy.com/course/c-programming-for-beginners-/" title="C Programming" target="_blank">C Programming for Beginners</a>
 
-<img scr="https://learnprogramming.academy/courses/c-programming-for-beginners-master-the-c-language/" width="350" title="C Programming for Beginners">
+<p align="center">
+    <img scr="https://learnprogramming.academy/wp-content/uploads/2023/01/1467808_f8c0-2.jpg" width="350" title="C Programming for Beginners">
+</p>
 
 <i>Please note, this repository is currently a work in progress 
 and will be updated over time.</i>
