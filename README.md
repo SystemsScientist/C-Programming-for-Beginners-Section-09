@@ -6,7 +6,7 @@ Language by Jason Fedin, which covers functions, i.e., sub-
 routines or procedures, arguments and parameters, returning data 
 from functions, and local and global variables.
 
-See the following link for this course: <a href="https://www.udemy.com/course/c-programming-for-beginners" title="C Programming" target="_blank">C Programming for Beginners</a>
+See the following link for this course: <a href="https://www.udemy.com/course/c-programming-for-beginners-/" title="C Programming" target="_blank">C Programming for Beginners</a>
 
 <i>Please note, this repository is currently a work in progress 
 and will be updated over time.</i>
