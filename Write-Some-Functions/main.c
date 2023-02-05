@@ -117,8 +117,8 @@ float square_root(float x) {
             printf("guess is %.2f\n", guess);
         }
 
-        printf("return value is %.2f \n", guess);
         return_value = guess;
+        printf("return value is %.2f \n", guess);
     }
 
     return return_value;
